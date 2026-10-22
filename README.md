@@ -13,7 +13,7 @@ The Streamlit-based HPC Job Submission Portal provides a simplified interface fo
 
 ## Architecture
 
-![HPC Infrastructure Architecture](docs/architecture/infra_net.png)
+![HPC Infrastructure Architecture](doc/architecture/infra_net.png)
 
 The infrastructure integrates workload management, provisioning, identity services, storage, software modules, monitoring, and user-facing job submission into a unified HPC environment.
 
